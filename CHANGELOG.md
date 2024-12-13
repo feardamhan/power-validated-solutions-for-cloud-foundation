@@ -1,5 +1,11 @@
 # Release History
 
+## v2.12.1
+
+> Release Date: 2024-12-13
+
+- Corrected use of DNS Zones vs AD FQDNs in all functions
+
 ## v2.12.0
 
 > Release Date: 2024-10-09
